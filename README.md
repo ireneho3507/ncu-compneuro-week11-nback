@@ -1,7 +1,7 @@
 # Week 11 — N-back Working Memory Dashboard
 
 NS5116 電腦硬體與程式語言（Spring 2026）— Week 11 作業
-Author: **Irene Ho**（中央大學認知神經科學所）
+Author: **何官臻**（中央大學認知神經科學所）
 
 ## Overview
 互動式 Streamlit dashboard，分析 200 位受試者、三種 n-back 條件（1/2/3-back）的工作記憶資料。使用者可依年齡、性別、年齡組、條件動態篩選，並切換顯示 accuracy / RT / d′。

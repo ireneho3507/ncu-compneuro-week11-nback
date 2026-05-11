@@ -1,7 +1,7 @@
 """
 Week 11 — N-back Working Memory Dashboard
 NS5116 電腦硬體與程式語言（Spring 2026）
-Author: Irene Ho
+Author: 何官臻
 """
 from pathlib import Path
 
@@ -84,7 +84,7 @@ metric_choice = st.sidebar.selectbox(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("Made with Streamlit · Irene Ho · NS5116")
+st.sidebar.caption("Made with Streamlit · 何官臻 · NS5116")
 
 
 # ---------- Apply filters ----------
