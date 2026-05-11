@@ -34,8 +34,8 @@ streamlit run app.py
 ```
 
 ## Live demo
-- GitHub: <https://github.com/ireneho3507/ncu-compneuro-week11-nback>
-- Streamlit Cloud: _部署中_
+- **GitHub:** <https://github.com/ireneho3507/ncu-compneuro-week11-nback>
+- **Streamlit Cloud:** <https://irene-ncu-compneuro-week11-nback.streamlit.app/>
 
 ## Audience reflection (100 words)
 This dashboard targets **cognitive neuroscience students and researchers** exploring
