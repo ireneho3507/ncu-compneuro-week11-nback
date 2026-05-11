@@ -6,7 +6,7 @@ Author: **Irene Ho**（中央大學認知神經科學所）
 ## Overview
 互動式 Streamlit dashboard，分析 200 位受試者、三種 n-back 條件（1/2/3-back）的工作記憶資料。使用者可依年齡、性別、年齡組、條件動態篩選，並切換顯示 accuracy / RT / d′。
 
-![Dashboard sidebar with all configured widgets](screenshots/dashboard.png)
+![N-back Dashboard — sidebar widgets, metrics, and tabs](screenshots/dashboard.png)
 
 ## Dataset
 `data/nback_working_memory.csv`（600 列）
